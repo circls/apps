@@ -1,4 +1,5 @@
-## Monster-UI
+## Modified version of Monster-UI for Circls UC.
+
 Welcome to the Monster-UI, the web interface built by 2600hz to play with [Kazoo](http://github.com/2600hz/kazoo). The project was released on October 6th 2014 and will get a lot of attention in the upcoming months.
 
 #### Installing Monster-UI
