@@ -1,0 +1,143 @@
+{
+	"name": "debug",
+	"i18n": {
+		"en-US": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"Email Tracking",
+                                "Anruf Details der SIP-Packages",
+                                "Online Status MWI, BLF, PR"
+			]
+		},
+		"ru-RU": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Anruf Details der SIP-Packages",
+                                "Online Status MWI, BLF, PR"
+			]
+		},
+		"ro-RO": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Anruf Details der SIP-Packages",
+                                "Online Status MWI, BLF, PR"
+			]
+		},
+		"nl-NL": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Anruf Details der SIP-Packages",
+                                "Online Status MWI, BLF, PR"
+			]
+		},
+		"de-DE": {
+			"label": "Monitoring",
+			"description": "Das Monitoring gibt Ihnen detailierte Technische Infomationen über Ihre VoIP-Geräte.",
+			"extended_description": "Sehen Sie die Telefone die sich auf der Platform angemalet haben. Ebenso werden Übrmittlungen gelisted.",
+			"features": [
+				"Registrationen anzeigen.",
+				"Emailübermittlung anzeigen.",
+                                "Anruf Details der SIP-Packete",
+                                "Online Status MWI, BLF, PR"
+			]
+		},
+		"fr-FR": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		},
+		"es-ES": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		},
+		"it-IT": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		},
+		"dk-DK": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		},
+		"pt-PT": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		},
+		"zh-CN": {
+			"label": "Debugging",
+			"description": "The Debugging App gives you access to different tools to help you debug the things happening on your platform.",
+			"extended_description": "",
+			"features": [
+				"Registrations Tracker",
+				"EMail Tracking",
+                                "Call Inspector of SIP-Packages",
+                                "Presence subscriptions MWI, BLF, PR"
+			]
+		}
+	},
+	"tags": [ "carrier", "reseller" ],
+	"icon": "Debug_app.png",
+	"api_url": "http://kazoo.allip.ovh:8000/v2",
+	"author": "2600Hz",
+	"version": "1.0",
+	"license": "MPL",
+	"price": 0,
+	"screenshots": [
+		"debug_1.png",
+		"debug_2.png",
+		"debug_3.png"
+	],
+	"urls": {
+		"documentation": "{documentation_url}",
+		"howto": "{howto_video_url}"
+	},
+	"pvt_type": "app"
+}

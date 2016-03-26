@@ -1,0 +1,110 @@
+{
+	"menuTitles": {
+		"registrations": "Registrationen",
+		"smtpLogs": "Mail Aufzeichnungen",
+		"callInspector": "Anruf Inspektor",
+		"presence": "Online Status"
+	},
+
+	"registrations": {
+		"title": "Registrationen",
+		"tableTitles": {
+			"username": "Benutzername",
+			"ip": "IP",
+			"port": "Port",
+			"date": "Datum",
+			"details": "Einzelheiten"
+		},
+		"detailDialog": {
+			"popupTitle": "Geräteinformationen"
+		}
+	},
+	
+	"registrationDetail" : {
+		"connectivityTitle" : "Verbindungsinformationen",
+		"connectivityDescription" : "Diese Information zeigt, wie das Gerät mit dem Netzwerk verbunden.",
+		"sipUser" : "SIP-Benutzer",
+		"account" : "Konto",
+		"domain" : "Domäne/Realm",
+		"type" : "Art",
+		
+		"connectedVia" : "Verbunden zu",
+		"port" : "Port",
+		"from" : "von",
+		"via" : "über",
+		"map" : "Karte",
+		
+		"proxyServer" : "Proxy Server",
+		"registerTime" : "Registration alle",
+		"seconds" : "Sekunden",
+		"notifyDeregister" : "Ausfall benachrichtigen:",
+		"yes" : "ja",
+		"no" : "nein",
+		
+		"technicalDetails" : "Technische Details",
+		"showDetails" : "Zeige mehr Details...",
+		"hideDetails": "Weniger Details...",
+                "key": "Schlüssel",
+                "value": "Wert"
+        },
+
+        "smtpLogs": {
+                "title": "Mail Aufzeichnung",
+                "tableTitles": {
+                        "from": "Von",
+                        "to": "Zu",
+                        "date": "Datum",
+                        "details": "Detail",
+                        "status": "Status"
+                },
+                "detailDialog": {
+                        "popupTitle": "Technische Detail",
+                        "metadataTitle": "Metadata",
+                        "errorTitle": "Fehler",
+                        "apiKeys": {
+                        }
+                }
+        },
+
+        "callInspector": {
+	"title": "Anruf Inspektor",
+	"gridHeaders": {
+		"inboundCall": "Eingehend",
+		"outboundCall": "Ausgehend",
+	        "dateTime1": "Datum/Zeit",
+	        "from": "Von",
+	        "to": "Zu",
+	        "duration1": "Dauer",
+	        "duration2": "(Min)",
+	        "hangup1": "Aufgelegt",
+	        "hangup2": "Status",
+                "see": "Diagramm",
+                "ladder": "anzeigen"
+	},
+	"loaderMessage": "Um mehr Anrufe zu zeigen, klicken Sie hier, oder bewegen Sie das Mausrad nach unten.",
+	"loadingMessage": "Lode weitere Anrufe...",
+	"noSearchMatch": "Ihre suche konnte nicht ermittelt werden.",
+	"backButton": "Zurück",
+	"analysisTypes": {
+	        "user": "Bentzer",
+	        "carrier": "Carrier",
+	        "kazoo": "Kazoo",
+	        "cloud": "Cloud"
+	}
+    },
+
+    "presence": {
+	"title": "Online Status",
+	"tableTitles": {
+	        "subscription": "Abonnement",
+	        "type": "Typ",
+                "mwi": "MWI",
+                "blf": "BLF",
+                "presence": "PR",
+	        "subscribersCount": "Abonnement",
+	        "flush": "Reset",
+		"ladder": ""
+	},
+	"flushSent": "Es wurde erfolgreich ein Abonnement-Reset für die Nebenstelle {{variable}} gesendet."
+    }
+}
